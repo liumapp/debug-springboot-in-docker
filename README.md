@@ -3,4 +3,6 @@ A demo project to show how to debug SpringBoot project in IDEA while it's runnin
 
 ## how to use 
 
- 
+* chmod -R +x run.sh
+
+* ./run.sh 
